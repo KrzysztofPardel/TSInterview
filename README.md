@@ -1,2 +1,5 @@
-# TSInterview
-TypeScript interview coding tasks for anyone who wants to practice. 
+# Hi Everyone!
+TypeScript Coding Tasks. I hope you enjoy them and they will aid you on the way to become a better TypeScript Dev. 
+
+
+
